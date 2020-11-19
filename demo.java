@@ -4,4 +4,12 @@ public class Car{
 		//logic
 	}
 
+	public void stop(){
+
+	}
+
+	public void move(){
+
+	}
+
 }
